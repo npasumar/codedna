@@ -1,3 +1,3 @@
 **Name:** Naveen
 
-**Objective:** Generic
+**Objective:** Generic sonar
